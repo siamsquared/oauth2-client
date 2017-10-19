@@ -1,5 +1,5 @@
 {
-    "name": "league/oauth2-client",
+    "name": "siamsquared/oauth2-client",
     "description": "OAuth 2.0 Client Library",
     "license": "MIT",
     "config": {
@@ -43,12 +43,12 @@
     ],
     "autoload": {
         "psr-4": {
-            "League\\OAuth2\\Client\\": "src/"
+            "Siamsquared\\OAuth2\\Client\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "League\\OAuth2\\Client\\Test\\": "test/src/"
+            "Siamsquared\\OAuth2\\Client\\Test\\": "test/src/"
         }
     },
     "extra": {
